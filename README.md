@@ -8,7 +8,7 @@
 - ⚡ My background is in HTML CSS JS, with extensive work with frameworks like React, NextJS and Flask
 
 ### 📊 GitHub Stats
-[![Salma's GitHub stats](https://github-stats-extended.vercel.app/api?username=salmabentley)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=salmabentley)](https://github.com/stats-organization/github-stats-extended)
 
 ### Projects
 **Bytes of Tech Magazine | www.bytesoftech.org**
